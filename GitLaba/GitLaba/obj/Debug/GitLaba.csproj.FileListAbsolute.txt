@@ -1,0 +1,14 @@
+D:\GitLaba\GitLaba\GitLaba\bin\Debug\GitLaba.exe.config
+D:\GitLaba\GitLaba\GitLaba\bin\Debug\GitLaba.exe
+D:\GitLaba\GitLaba\GitLaba\bin\Debug\GitLaba.pdb
+D:\GitLaba\GitLaba\GitLaba\bin\Debug\Newtonsoft.Json.dll
+D:\GitLaba\GitLaba\GitLaba\bin\Debug\Newtonsoft.Json.pdb
+D:\GitLaba\GitLaba\GitLaba\bin\Debug\Newtonsoft.Json.xml
+D:\GitLaba\GitLaba\GitLaba\obj\Debug\GitLaba.csprojAssemblyReference.cache
+D:\GitLaba\GitLaba\GitLaba\obj\Debug\GitLaba.Form1.resources
+D:\GitLaba\GitLaba\GitLaba\obj\Debug\GitLaba.Properties.Resources.resources
+D:\GitLaba\GitLaba\GitLaba\obj\Debug\GitLaba.csproj.GenerateResource.cache
+D:\GitLaba\GitLaba\GitLaba\obj\Debug\GitLaba.csproj.CoreCompileInputs.cache
+D:\GitLaba\GitLaba\GitLaba\obj\Debug\GitLaba.csproj.CopyComplete
+D:\GitLaba\GitLaba\GitLaba\obj\Debug\GitLaba.exe
+D:\GitLaba\GitLaba\GitLaba\obj\Debug\GitLaba.pdb
